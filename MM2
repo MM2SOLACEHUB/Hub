@@ -1,6 +1,4 @@
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/lD6JOm0Btypy2Tif/raw"))()
-wait(0.5)
-
 -- Clean Script Hub Template - Legitimate Version
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
